@@ -1,4 +1,4 @@
-# 💬 Gemini RAG Chatbot (PDF + Vector Search)
+# 💬 RAG Chatbot (PDF + Vector Search)
 
 A Retrieval-Augmented Generation (RAG) chatbot that lets you upload PDF documents and ask natural language questions about them. Answers are grounded strictly in your uploaded documents — no hallucinations, but cross-document reasoning is a known limitation currently being worked on.
 
