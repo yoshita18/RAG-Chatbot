@@ -3,3 +3,4 @@ langchain_core==1.2.16
 langchain_google_genai==4.2.1
 langchain_text_splitters==1.1.1
 streamlit==1.54.0
+pypdf
